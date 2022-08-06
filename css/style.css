@@ -1,0 +1,26 @@
+.header {
+    font-size: 20px;
+}
+
+.name {
+    display: flex;
+    flex-direction: column;
+    width: 15%;
+}
+
+.surname {
+    display: flex;
+    flex-direction: column;
+    width: 15%;
+}
+
+.mail {
+    display: flex;
+    flex-direction: column;
+    width: 15%;
+}
+
+#friend {
+    margin-top: 2px;
+}
+
